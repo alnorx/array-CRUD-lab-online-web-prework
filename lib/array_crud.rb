@@ -2,7 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array
+def create_an_ar
+  ray
   [a, b, c, "d"]
 end
 
