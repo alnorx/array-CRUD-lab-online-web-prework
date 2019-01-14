@@ -19,18 +19,18 @@ end
 
 def remove_element_from_end_of_array(array)
   array=[]
- array=array.pop
+ puts array.pop
 end
 
 def remove_element_from_start_of_array(array)
   array=[]
-  array=array.shift 
+  puts array.shift 
   
 end
 
 def retrieve_element_from_index(array, index_number)
   array=[]
-  m=array[index_number]
+  puts array "#{index_number}""
 end
 
 def retrieve_first_element_from_array(array)
